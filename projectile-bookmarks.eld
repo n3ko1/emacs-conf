@@ -1,0 +1,1 @@
+("/repos/d064754/happy-make/" "~/" "/repos/d064754/qa_utils/" "/repos/d064754/gerrit-staged-submit-plugin/" "/repos/d064754/gerrit/plugins/cookbook-plugin/" "/repos/d064754/gerrit/" "/repos/d064754/gerrit/plugins/singleusergroup/" "/repos/d064754/checkbot/" "/repos/d064754/hana/")
